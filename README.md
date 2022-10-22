@@ -1,4 +1,4 @@
-- 🔮 Olá, meu nome é Luiza.
+- 🔮 Olá, meu nome é **Luiza**.
 - 📧 Meu contato é Luiza.bueno@escola.pr.gov.br
-- ✨ Eu estou interessada em aprender novas linguagens.
-- 💻 Eu estou aprendendo a como Usar o Github
+- ✨ Eu estou interessada em aprender **novas linguagens**.
+- 💻 Eu estou aprendendo a como Usar o **Github**.
